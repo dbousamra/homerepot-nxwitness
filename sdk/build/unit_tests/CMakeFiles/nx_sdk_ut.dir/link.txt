@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/nx_sdk_ut.dir/src/ref_countable_ut.cpp.o CMakeFiles/nx_sdk_ut.dir/src/ptr_ut.cpp.o CMakeFiles/nx_sdk_ut.dir/src/uuid_helper_ut.cpp.o CMakeFiles/nx_sdk_ut.dir/src/main.cpp.o  -o nx_sdk_ut -Wl,-rpath,"\$ORIGIN" ../nx_kit/libnx_kit.a ../libnx_sdk.a ../nx_kit/libnx_kit.a 

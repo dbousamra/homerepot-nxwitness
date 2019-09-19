@@ -28,3 +28,9 @@ then
   rm -rf /opt/${COMPANY_NAME}/mediaserver/etc
   ln -s /config/etc /opt/${COMPANY_NAME}/mediaserver/etc
 fi
+
+if [[ ! -d /config/plugins ]]
+then
+  mv /opt/${COMPANY_NAME}/mediaserver/plugins/* /plugins
+  ln -s /config/plugins /opt/${COMPANY_NAME}/mediaserver
+fi

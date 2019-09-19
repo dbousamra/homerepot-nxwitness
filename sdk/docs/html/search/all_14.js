@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['value',['value',['../classnx_1_1sdk_1_1_string_map.html#a6138e48804daec9575ec3b6246979ed2',1,'nx::sdk::StringMap::value(int i) const override'],['../classnx_1_1sdk_1_1_string_map.html#a3e31e71b11fff4bb8f0f2196362bade0',1,'nx::sdk::StringMap::value(const char *key) const override'],['../classnx_1_1sdk_1_1_i_string_map.html#a8ad40baf573b6b03ec9b338600b6c9b6',1,'nx::sdk::IStringMap::value(int i) const =0'],['../classnx_1_1sdk_1_1_i_string_map.html#a8c377f5e7183d50e552e3afde0737c31',1,'nx::sdk::IStringMap::value(const char *key) const =0']]],
+  ['vector2d',['Vector2D',['../structnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1_vector2_d.html',1,'nx::vms_server_plugins::analytics::stub']]],
+  ['vehicle',['Vehicle',['../classnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1_vehicle.html',1,'nx::vms_server_plugins::analytics::stub']]],
+  ['videoframeprocessingdeviceagent',['VideoFrameProcessingDeviceAgent',['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent'],['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#affbf92327cb32af3bb64fee3dedd37cb',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent::VideoFrameProcessingDeviceAgent()']]],
+  ['vmssystemtimesinceepochms',['vmsSystemTimeSinceEpochMs',['../classnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1test_1_1_utility_provider.html#a3ed84166437623075a2f6169f3388c6d',1,'nx::vms_server_plugins::analytics::stub::test::UtilityProvider::vmsSystemTimeSinceEpochMs()'],['../classnx_1_1sdk_1_1_i_utility_provider.html#a9e4c4434a5841c87dd5498d731e2bd2b',1,'nx::sdk::IUtilityProvider::vmsSystemTimeSinceEpochMs()']]]
+];

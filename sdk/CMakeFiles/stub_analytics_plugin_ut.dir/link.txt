@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/stub_analytics_plugin_ut.dir/unit_tests/src/stub_analytics_plugin_ut.cpp.o  -o stub_analytics_plugin_ut -Wl,-rpath,"\$ORIGIN" libstub_analytics_plugin.so libnx_sdk.a nx_kit/libnx_kit.a 

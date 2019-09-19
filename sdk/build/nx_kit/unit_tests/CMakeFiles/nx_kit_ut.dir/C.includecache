@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/sdk/src/nx_kit/src/ini_config_c.h
+stdbool.h
+-
+
+/sdk/src/nx_kit/unit_tests/src/ini.h
+ini_config_c.h
+-
+
+/sdk/src/nx_kit/unit_tests/src/ini_config_c_usage.c
+ini_config_c_usage.h
+/sdk/src/nx_kit/unit_tests/src/ini_config_c_usage.h
+stdio.h
+-
+string.h
+-
+ini.h
+/sdk/src/nx_kit/unit_tests/src/ini.h
+
+/sdk/src/nx_kit/unit_tests/src/ini_config_c_usage.h
+

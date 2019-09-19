@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['parsedcmdlineargs',['ParsedCmdLineArgs',['../structnx_1_1kit_1_1test_1_1detail_1_1_parsed_cmd_line_args.html',1,'nx::kit::test::detail']]],
+  ['pedestrian',['Pedestrian',['../classnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1_pedestrian.html',1,'nx::vms_server_plugins::analytics::stub']]],
+  ['pixelaspectratio',['PixelAspectRatio',['../structnx_1_1sdk_1_1analytics_1_1_i_uncompressed_video_frame_1_1_pixel_aspect_ratio.html',1,'nx::sdk::analytics::IUncompressedVideoFrame']]],
+  ['pixelformatdescriptor',['PixelFormatDescriptor',['../structnx_1_1sdk_1_1analytics_1_1_pixel_format_descriptor.html',1,'nx::sdk::analytics']]],
+  ['planecount',['planeCount',['../classnx_1_1sdk_1_1analytics_1_1_i_uncompressed_media_frame.html#aa5e1b6c7bbb527c15ff1be1c146e1e7a',1,'nx::sdk::analytics::IUncompressedMediaFrame']]],
+  ['plugin',['Plugin',['../classnx_1_1sdk_1_1analytics_1_1_plugin.html',1,'nx::sdk::analytics::Plugin'],['../classnx_1_1sdk_1_1analytics_1_1_plugin.html#a6a60844aee001d91e0db03c77673af7d',1,'nx::sdk::analytics::Plugin::Plugin()']]],
+  ['plugindiagnosticevent',['PluginDiagnosticEvent',['../classnx_1_1sdk_1_1_plugin_diagnostic_event.html',1,'nx::sdk']]],
+  ['ptr',['Ptr',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk::Ptr&lt; RefCountable &gt;'],['../classnx_1_1sdk_1_1_ptr.html#a8bfced30e8dd6013200a29a355265582',1,'nx::sdk::Ptr::Ptr(std::nullptr_t=nullptr)'],['../classnx_1_1sdk_1_1_ptr.html#ae4a7caca7bad462606b3a02f8eb26fc9',1,'nx::sdk::Ptr::Ptr(const Ptr &amp;other)'],['../classnx_1_1sdk_1_1_ptr.html#acc518b62fa6bf597e65e4e5f56a04518',1,'nx::sdk::Ptr::Ptr(Ptr &amp;&amp;other)']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aideviceagent_3a_3aihandler_20_3e',['Ptr&lt; nx::sdk::analytics::IDeviceAgent::IHandler &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aiengine_3a_3aihandler_20_3e',['Ptr&lt; nx::sdk::analytics::IEngine::IHandler &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aitimestampedobjectmetadata_20_3e',['Ptr&lt; nx::sdk::analytics::ITimestampedObjectMetadata &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aiuncompressedvideoframe_20_3e',['Ptr&lt; nx::sdk::analytics::IUncompressedVideoFrame &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aobjectmetadata_20_3e',['Ptr&lt; nx::sdk::analytics::ObjectMetadata &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3ailist_3c_20nx_3a_3asdk_3a_3aanalytics_3a_3aitimestampedobjectmetadata_20_3e_20_3e',['Ptr&lt; nx::sdk::IList&lt; nx::sdk::analytics::ITimestampedObjectMetadata &gt; &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aistring_20_3e',['Ptr&lt; nx::sdk::IString &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3aiutilityprovider_20_3e',['Ptr&lt; nx::sdk::IUtilityProvider &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3astringlist_20_3e',['Ptr&lt; nx::sdk::StringList &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['ptr_3c_20nx_3a_3asdk_3a_3astringmap_20_3e',['Ptr&lt; nx::sdk::StringMap &gt;',['../classnx_1_1sdk_1_1_ptr.html',1,'nx::sdk']]],
+  ['pullmetadatapackets',['pullMetadataPackets',['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#a1dbbdaa96e514f6779b2e835a4fe996a',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent']]],
+  ['pushcompressedvideoframe',['pushCompressedVideoFrame',['../classnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1_device_agent.html#a0c7e5d2cb9495d025d181ea8e91182aa',1,'nx::vms_server_plugins::analytics::stub::DeviceAgent::pushCompressedVideoFrame()'],['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#a2a16a0f01fcbabe4beebd35944a16e89',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent::pushCompressedVideoFrame()']]],
+  ['pushmetadatapacket',['pushMetadataPacket',['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#ae075771d2dafc0a00f836f8c34ee64a7',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent']]],
+  ['pushplugindiagnosticevent',['pushPluginDiagnosticEvent',['../classnx_1_1sdk_1_1analytics_1_1_engine.html#a3a138f423c3940f74bc2057d44ed64f4',1,'nx::sdk::analytics::Engine::pushPluginDiagnosticEvent()'],['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#adebcd9eddf48c02fb1d25d6058a1dcad',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent::pushPluginDiagnosticEvent()']]],
+  ['pushuncompressedvideoframe',['pushUncompressedVideoFrame',['../classnx_1_1vms__server__plugins_1_1analytics_1_1stub_1_1_device_agent.html#a5911f8b11e4b02967e1e31afbefa45d4',1,'nx::vms_server_plugins::analytics::stub::DeviceAgent::pushUncompressedVideoFrame()'],['../classnx_1_1sdk_1_1analytics_1_1_video_frame_processing_device_agent.html#a84157d4b51f25d919fe77bf46d8bce0d',1,'nx::sdk::analytics::VideoFrameProcessingDeviceAgent::pushUncompressedVideoFrame()']]]
+];

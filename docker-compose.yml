@@ -14,5 +14,6 @@ services:
     volumes:
       - ./data/recordings:/archive/HD Witness Media
       - ./data/config:/config
+      - ./data/plugins:/plugins
     ports:
       - 7001:7001
