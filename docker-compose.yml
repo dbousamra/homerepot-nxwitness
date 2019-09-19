@@ -1,0 +1,18 @@
+version: "2.3"
+
+services:
+  rtsp-server:
+    container_name: rtsp-server
+    image: ullaakut/rtspatt
+    ports:
+      - 8554:8554
+
+  nxwitness:
+    container_name: nxwitness
+    build: .
+    privileged: true
+    volumes:
+      - ./data/recordings:/archive/HD Witness Media
+      - ./data/config:/config
+    ports:
+      - 7001:7001
